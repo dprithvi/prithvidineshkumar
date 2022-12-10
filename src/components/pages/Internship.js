@@ -4,6 +4,7 @@ import '../styles/Internship.css'
 
 //importing the pictures from the library
 import intern from '../../images/Intern.jpg'
+import javacertificate from '../../images/javacertificate.jpg'
 
 //Creating a separate component for portfolio 
 export default function Internship() {
@@ -22,6 +23,7 @@ export default function Internship() {
                 <li className="cardtext nav-item" > 
                     <h3>2. SUMMER INTERNSHIP TRAINING - BASICS OF JAVA</h3>
                     <br></br>
+                    <img src={javacertificate} alt="javacertificate" />
                     <p>In this summer Internship program i learned the basic of java especially OOP'S concept of java programming</p>
                 </li> 
             </ul>

@@ -1,19 +1,20 @@
 {
   "files": {
-    "main.css": "/prithvidineshkumar/static/css/main.5838e651.css",
-    "main.js": "/prithvidineshkumar/static/js/main.4d82541c.js",
+    "main.css": "/prithvidineshkumar/static/css/main.0aa92cfd.css",
+    "main.js": "/prithvidineshkumar/static/js/main.887e3584.js",
     "static/media/title-yellow-splash.jpg": "/prithvidineshkumar/static/media/title-yellow-splash.d2df3dd83209217d4ef9.jpg",
     "static/media/feet_soldier.jpeg": "/prithvidineshkumar/static/media/feet_soldier.e146890c6c7e721745c1.jpeg",
     "static/media/GitHub_logo.png": "/prithvidineshkumar/static/media/GitHub_logo.3941e709a9220e7a5013.png",
     "static/media/prithviimage.jpeg": "/prithvidineshkumar/static/media/prithviimage.58f6bf0292f6508303ef.jpeg",
     "static/media/linkedin_social media_icon.png": "/prithvidineshkumar/static/media/linkedin_social media_icon.acf8b40d5a18de64233e.png",
     "static/media/LeetCode_logo_black.png": "/prithvidineshkumar/static/media/LeetCode_logo_black.c79f333b12595d3eec8f.png",
+    "static/media/javatutorials.jpg": "/prithvidineshkumar/static/media/javatutorials.67449b67af92c69b862b.jpg",
     "index.html": "/prithvidineshkumar/index.html",
-    "main.5838e651.css.map": "/prithvidineshkumar/static/css/main.5838e651.css.map",
-    "main.4d82541c.js.map": "/prithvidineshkumar/static/js/main.4d82541c.js.map"
+    "main.0aa92cfd.css.map": "/prithvidineshkumar/static/css/main.0aa92cfd.css.map",
+    "main.887e3584.js.map": "/prithvidineshkumar/static/js/main.887e3584.js.map"
   },
   "entrypoints": [
-    "static/css/main.5838e651.css",
-    "static/js/main.4d82541c.js"
+    "static/css/main.0aa92cfd.css",
+    "static/js/main.887e3584.js"
   ]
 }

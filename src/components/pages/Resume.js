@@ -8,7 +8,7 @@ export default function Resume() {
     <div className="resume-container">
       <h4>
        Download my&nbsp;     
-      <a id='resume' href="../images/PrithviD_resume.pdf" download rel="noopener noreferrer" target="_blank">
+      <a id='resume' href="../../images/PrithviD_resume.pdf" download rel="noopener noreferrer" target="_blank">
       resume
       </a>
       </h4>

@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/prithvidineshkumar/static/css/main.39c47178.css",
-    "main.js": "/prithvidineshkumar/static/js/main.1b4252e5.js",
+    "main.js": "/prithvidineshkumar/static/js/main.3337191c.js",
     "static/media/title-yellow-splash.jpg": "/prithvidineshkumar/static/media/title-yellow-splash.d2df3dd83209217d4ef9.jpg",
     "static/media/Intern.jpg": "/prithvidineshkumar/static/media/Intern.af67b34c215b73b49f2e.jpg",
     "static/media/feet_soldier.jpeg": "/prithvidineshkumar/static/media/feet_soldier.e146890c6c7e721745c1.jpeg",
     "static/media/GitHub_logo.png": "/prithvidineshkumar/static/media/GitHub_logo.3941e709a9220e7a5013.png",
     "static/media/prithviimage.jpeg": "/prithvidineshkumar/static/media/prithviimage.58f6bf0292f6508303ef.jpeg",
-    "static/media/javacertificate.jpg": "/prithvidineshkumar/static/media/javacertificate.66221441d3dab33ab1bb.jpg",
     "static/media/linkedin_social media_icon.png": "/prithvidineshkumar/static/media/linkedin_social media_icon.acf8b40d5a18de64233e.png",
     "static/media/LeetCode_logo_black.png": "/prithvidineshkumar/static/media/LeetCode_logo_black.c79f333b12595d3eec8f.png",
+    "static/media/Internshipjava.jpg": "/prithvidineshkumar/static/media/Internshipjava.a66564c7c36511f72eed.jpg",
     "static/media/javatutorials.jpg": "/prithvidineshkumar/static/media/javatutorials.67449b67af92c69b862b.jpg",
     "static/media/cisco.jpg": "/prithvidineshkumar/static/media/cisco.d64af8a9da9edf1e4a56.jpg",
     "index.html": "/prithvidineshkumar/index.html",
     "main.39c47178.css.map": "/prithvidineshkumar/static/css/main.39c47178.css.map",
-    "main.1b4252e5.js.map": "/prithvidineshkumar/static/js/main.1b4252e5.js.map"
+    "main.3337191c.js.map": "/prithvidineshkumar/static/js/main.3337191c.js.map"
   },
   "entrypoints": [
     "static/css/main.39c47178.css",
-    "static/js/main.1b4252e5.js"
+    "static/js/main.3337191c.js"
   ]
 }

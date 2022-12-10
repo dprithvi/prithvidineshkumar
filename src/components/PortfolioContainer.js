@@ -8,7 +8,7 @@ import About from './pages/About';
 import Work from './pages/Work';
 import Course from './pages/Course';
 import Resume from './pages/Resume';
-
+import Internship from './pages/Internship';
 
 export default function PortfolioContainer() {
   const [currentPage, setCurrentPage] = useState('About');
@@ -23,6 +23,9 @@ export default function PortfolioContainer() {
     }
     if (currentPage === 'Resume'){
       return <Resume />;
+    }
+    if (currentPage === 'Internship'){
+      return <Internship />;
     }
       return <About />;
   };

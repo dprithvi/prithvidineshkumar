@@ -1,0 +1,51 @@
+.work-container {
+  padding-bottom: 10em;
+}
+
+.display-work .card{
+    border: solid 0.35em rgb(126, 217, 204);
+    flex-shrink: 1;
+    position: relative;
+    cursor: pointer;
+  }
+
+  .display-work img {
+    width: 100%
+  }
+
+  .display-work .cardtext{
+    flex-shrink: 1;
+    position: relative;
+    cursor: pointer;
+  }
+
+  
+
+ 
+
+/* Introducing pseudoclass for the hover on card */
+
+.display-work .card:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.5);
+}
+
+@media screen and (min-width: 992px){ 
+  /* styling exhibit work */
+  .container .display-work {
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+}
+
+/* Making the list items as cards enabling us to style each card better and introduce pseudo class for clicks and focus  */
+.display-work .card{
+    margin: 0 1% 1% 1%;
+    flex: 0 1 48%;
+  }
+  
+  .display-work .card img {
+    width: 100%;
+  }  
+}

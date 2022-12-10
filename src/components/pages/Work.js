@@ -16,7 +16,7 @@ export default function Work() {
                 <li className="card nav-item" > 
                         <img src={feetsoldier} alt="feetsoldier" />
                 </li> 
-                <li className="card nav-item" > 
+                <li className="cardtext nav-item" > 
                  <p>This is a service platform that connencts small workers like carpenter, electrician, plumber etc., to people who are need of these services. Currently, we are studying about software development process and applying our learning to build this application. This application process is being built using java programming.</p>
                 </li> 
 

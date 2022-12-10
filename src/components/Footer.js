@@ -5,7 +5,7 @@ import './styles/Footer.css'
 //importing logos as assets
 import ghlogo from '../images/GitHub_logo.png'
 import lnkinlogo from '../images/linkedin_social media_icon.png'
-import twtlogo from '../images/Twitter-logo.svg'
+import leetlogo from '../images/LeetCode_logo_black.png'
 
 
 
@@ -16,18 +16,18 @@ const Footer = () => {
     <footer className="w-100 footbar" >
         <ul className="nav-links">
           <li className="nav-item">
-            <a href="https://github.com/rajeswarivmarimuthu" target="_blank" rel="noreferrer">
+            <a href="https://github.com/dprithvi" target="_blank" rel="noreferrer">
               <img src={ghlogo} className="photo" alt="github" />
             </a>
           </li>
           <li className="nav-item">
-            <a href="https://www.linkedin.com/in/rajeswari-marimuthu-b634bb17/" target="_blank" rel="noreferrer">
+            <a href="https://www.linkedin.com/in/prithvi-d-683977241/" target="_blank" rel="noreferrer">
                 <img src={lnkinlogo} className="photo" alt="LinkedIn" />
             </a>
           </li>
           <li className="nav-item">
-            <a href="https://twitter.com/marimra3" target="_blank" rel="noreferrer">
-                <img src={twtlogo} className="photo" alt="Twitter" />
+            <a href="https://leetcode.com/prithvid20EC103/" target="_blank" rel="noreferrer">
+                <img src={leetlogo} className="photo" alt="leetcode" />
             </a>
           </li>
         </ul>

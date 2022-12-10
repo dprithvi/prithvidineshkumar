@@ -7,7 +7,7 @@ import './styles/NavTabs.css'
 function NavTabs ({currentPage, handlePageChange}){
     return (
         <div className="navbar sticky-top">
-        <h1> Rajeswari Marimuthu</h1>
+        <h1> Prithvi Dineshkumar</h1>
         <ul className="nav-links">
             <li className="nav-item">
                 <a
@@ -26,17 +26,7 @@ function NavTabs ({currentPage, handlePageChange}){
                     // Check to see if the currentPage is `Blog`, and if so we use the active link class from bootstrap. Otherwise, we set it to a normal nav-link
                     className={currentPage === 'Work' ? 'nav-link active' : 'nav-link'}
                 >
-                    Work
-                </a>
-            </li>
-            <li className="nav-item">
-                <a
-                    href="#contact"
-                    onClick={() => handlePageChange('Contact')}
-                    // Check to see if the currentPage is `Contact`, and if so we use the active link class from bootstrap. Otherwise, we set it to a normal nav-link
-                    className={currentPage === 'Contact' ? 'nav-link active' : 'nav-link'}
-                >
-                    Contact
+                    Projects
                 </a>
             </li>
             <li className="nav-item">

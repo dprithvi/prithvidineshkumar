@@ -1,7 +1,7 @@
 // Import necessary internal and external modules  
 import React from 'react';
 import '../styles/Course.css';
-import cisco from '../../images/cisco.png'
+import cisco from '../../images/cisco.jpg'
 import packettracer from '../../images/packettracer.png'
 import simplilearn from '../../images/simplilearn.png'
 import javatutorials from '../../images/javatutorials.jpg'
@@ -13,7 +13,7 @@ export default function Resume() {
         <div class="cards">
     <article class="card">
         <header>
-            <h2>CISCO CCNA</h2>
+            <h3>CISCO CCNA</h3>
         </header>    
         <img src={cisco} alt="cisco ccna" />
         <div class="content">
@@ -25,7 +25,7 @@ export default function Resume() {
             
      <article class="card">
         <header>
-            <h2>CISCO PACKET TRACER</h2>
+            <h3> PACKET TRACER</h3>
         </header>    
         <img src={packettracer} alt="cisco packettracer" />
         <div class="content">
@@ -35,7 +35,7 @@ export default function Resume() {
     </article>
     <article class="card">
         <header>
-            <h2>SIMPLILEARN - ETHICAL HAVKING</h2>
+            <h3> ETHICAL HACKING</h3>
         </header>    
         <img src={simplilearn} alt="simplilearn" />
         <div class="content">
@@ -45,7 +45,7 @@ export default function Resume() {
     </article>
     <article class="card">
         <header>
-            <h2> JAVA</h2>
+            <h3> JAVA</h3>
         </header>    
         <img src={javatutorials} alt="basics of java" />
         <div class="content">

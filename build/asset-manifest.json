@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/prithvidineshkumar/static/css/main.51564e5c.css",
-    "main.js": "/prithvidineshkumar/static/js/main.0a126a31.js",
+    "main.js": "/prithvidineshkumar/static/js/main.d770621c.js",
     "static/media/title-yellow-splash.jpg": "/prithvidineshkumar/static/media/title-yellow-splash.d2df3dd83209217d4ef9.jpg",
     "static/media/feet_soldier.jpeg": "/prithvidineshkumar/static/media/feet_soldier.e146890c6c7e721745c1.jpeg",
     "static/media/GitHub_logo.png": "/prithvidineshkumar/static/media/GitHub_logo.3941e709a9220e7a5013.png",
@@ -10,10 +10,10 @@
     "static/media/LeetCode_logo_black.png": "/prithvidineshkumar/static/media/LeetCode_logo_black.c79f333b12595d3eec8f.png",
     "index.html": "/prithvidineshkumar/index.html",
     "main.51564e5c.css.map": "/prithvidineshkumar/static/css/main.51564e5c.css.map",
-    "main.0a126a31.js.map": "/prithvidineshkumar/static/js/main.0a126a31.js.map"
+    "main.d770621c.js.map": "/prithvidineshkumar/static/js/main.d770621c.js.map"
   },
   "entrypoints": [
     "static/css/main.51564e5c.css",
-    "static/js/main.0a126a31.js"
+    "static/js/main.d770621c.js"
   ]
 }

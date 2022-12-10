@@ -11,15 +11,15 @@ export default function Work() {
 
   return (
     <div className="w-100 container work-container">  
-            <h3 className="sidebar-heading">Projects Portfolio</h3>
+            <h3 className="sidebar-heading">Community Service Platform</h3>
             <ul className="display-work nav-links">
                 <li className="card nav-item" > 
                         <img src={feetsoldier} alt="feetsoldier" />
-                        <div className="text-on-card" >
-                            <h4> Community Service Platform </h4>
-                        </div>
-       
                 </li> 
+                <li className="card nav-item" > 
+                 <p>This is a service platform that connencts small workers like carpenter, electrician, plumber etc., to people who are need of these services. Currently, we are studying about software development process and applying our learning to build this application. This application process is being built using java programming.</p>
+                </li> 
+
             </ul>
     </div>
   );

@@ -2,7 +2,7 @@
   "name": "personal-profile",
   "version": "1.0.0",
   "description": "This is react application to present my portfolio",
-  "homepage": "https://dprithvi.github.io/prithvidineshkumar",
+  "homepage": " https://dprithvi.github.io/prithvidineshkumar/",
   "main": "index.js",
   "scripts": {
     "start": "react-scripts start",

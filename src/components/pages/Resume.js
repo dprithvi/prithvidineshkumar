@@ -8,29 +8,27 @@ export default function Resume() {
     <div className="resume-container">
       <h4>
        Download my&nbsp;     
-      <a id='resume' href="../images/Raji-resume.pdf" download rel="noopener noreferrer" target="_blank">
+      <a id='resume' href="../images/PrithviD_resume.pdf" download rel="noopener noreferrer" target="_blank">
       resume
       </a>
       </h4>
       <br></br>
       <div>
-        <h4> Front-end Proficiencies</h4>
+        <h4> Technical skills</h4>
         <ul>
+          <li> Java </li>
+          <li> C language </li>
+          <li> Python </li>
           <li> HTML </li>
-          <li> CSS </li>
-          <li> javascript </li>
-          <li> React </li>
-          <li> Bootstrap </li>
+          <li> Networking basics </li>
         </ul>
       </div>
       <br></br>
-      <h4> Back-end Proficiencies</h4>
+      <h4> Soft skills</h4>
       <ul>
-        <li> Building rest APIs </li>
-        <li> Node </li>
-        <li> Express </li>
-        <li> MySQL, Sequelize </li>
-        <li> MongoDB, Mongoose </li>
+        <li> Leadership </li>
+        <li> Communication </li>
+        <li> Problem solving </li>
       </ul>
     </div>
   );

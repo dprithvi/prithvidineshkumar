@@ -8,19 +8,15 @@ export default function About() {
     <div className="about-container">
       <h2>About Me</h2>
       <p>
-        Passionate technology leader adept at building and leading high performance teams for organization's success. 
-        Calm and composed with strong crisis management and problem solving skills. My curiousity to use technology to drive business got me here. 
-        Have been in technology space for more than 18 years and witnessing how it solves our day today problems, I am inspired to become an techy entrepreneur. 
-        Words that summarizes me "Humility, Integrity, Curiousity". 
+      Hi , I am a technology enthusiat on solving day-to-day business problems pragmatically. i am a good team player and a strong leadership skills 
         <br></br>
       </p>   
       <p>
-        Apart from spending time with my family and my full time Engineering leader, 
+        I am very proud to share my achievements, 
         <ul>
-        <li>Mentor women, non-binary, under-represented minorities to fight the systemic barriers and develop the necessary skills to establish themselves in the industry.</li>
-        <li>Challenge myself solving algorithms</li>
-        <li>Supporting my friends in building web applications</li>
-        <li>Practice lot of pilates, yoga!!! </li>
+        <li>Won 1st price in MINI PROJECT EXPO 2022,this project is a platform connecting service providers like electricians, plumbers etc., to consumers</li>
+        <li>NETSE'22 - PARTICIPATED IN PAPER PRESENTATION - Presented paper on Bionic eye at NETSE'22 at KPR institute of engineering and technology.</li>
+        <li>Awarded Consolation prize in Student mobility program 2022 contucted in University of Malaya - Drone navigation project. </li>
         </ul>
       </p>
     </div>

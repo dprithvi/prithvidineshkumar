@@ -6,7 +6,7 @@ import Footer from './Footer';
 
 import About from './pages/About';
 import Work from './pages/Work';
-import Contact from './pages/Contact';
+import Course from './pages/Course';
 import Resume from './pages/Resume';
 
 
@@ -15,8 +15,8 @@ export default function PortfolioContainer() {
 
   // Method to check the value of `currentPage`. Depending on the value of currentPage, render corresponding compoenent.
   const renderPage = () => {
-    if (currentPage === 'Contact') {
-      return <Contact />;
+    if (currentPage === 'Course') {
+      return <Course />;
     }
     if (currentPage === 'Work') {
       return <Work />;

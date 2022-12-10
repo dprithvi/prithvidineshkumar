@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/prithvidineshkumar/static/css/main.bb40730f.css",
-    "main.js": "/prithvidineshkumar/static/js/main.8c0daf34.js",
+    "main.css": "/prithvidineshkumar/static/css/main.51564e5c.css",
+    "main.js": "/prithvidineshkumar/static/js/main.cacb2506.js",
     "static/media/marvel-character-finder.png": "/prithvidineshkumar/static/media/marvel-character-finder.ae61ae2a15dd229ae1ed.png",
     "static/media/knickknacks_ondemand.png": "/prithvidineshkumar/static/media/knickknacks_ondemand.6f119e41d08db683b38c.png",
     "static/media/title-yellow-splash.jpg": "/prithvidineshkumar/static/media/title-yellow-splash.d2df3dd83209217d4ef9.jpg",
@@ -12,11 +12,11 @@
     "static/media/linkedin_social media_icon.png": "/prithvidineshkumar/static/media/linkedin_social media_icon.acf8b40d5a18de64233e.png",
     "static/media/Twitter-logo.svg": "/prithvidineshkumar/static/media/Twitter-logo.588680e9a107773c21d74684491c320b.svg",
     "index.html": "/prithvidineshkumar/index.html",
-    "main.bb40730f.css.map": "/prithvidineshkumar/static/css/main.bb40730f.css.map",
-    "main.8c0daf34.js.map": "/prithvidineshkumar/static/js/main.8c0daf34.js.map"
+    "main.51564e5c.css.map": "/prithvidineshkumar/static/css/main.51564e5c.css.map",
+    "main.cacb2506.js.map": "/prithvidineshkumar/static/js/main.cacb2506.js.map"
   },
   "entrypoints": [
-    "static/css/main.bb40730f.css",
-    "static/js/main.8c0daf34.js"
+    "static/css/main.51564e5c.css",
+    "static/js/main.cacb2506.js"
   ]
 }

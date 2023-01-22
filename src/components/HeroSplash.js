@@ -1,6 +1,6 @@
 import React from 'react';
 import './styles/HeroSplash.css'
-import avatar from '../images/prithviimage.jpeg'
+import avatar from '../images/Prithviphotot.jpeg'
 
 function HeroSplash(){
     return (
